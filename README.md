@@ -1,12 +1,20 @@
 # Mare’s Market
 
-Mare’s Market is an internal software tool created by Peter Allain to automate and manage Amazon FBM order processing, inventory tracking, and workflow integrations. The application retrieves Amazon Selling Partner API (SP-API) data securely within a private AWS environment to support order fulfillment operations.
+Mare’s Market is an internal software tool used by Peter Allain to automate and manage Amazon FBM order processing, inventory tracking, and workflow integrations. The application retrieves Amazon Selling Partner API (SP-API) data securely within a private AWS environment to support order fulfillment operations.
 
-### Contact
+This website is provided to meet Amazon SP-API developer registration and public disclosure requirements.
+
+---
+
+## 📄 Legal Documents
+
+- **[Privacy Policy](https://pallain9.github.io/maresmarket-site/privacy-policy)**  
+- **[Terms of Service](https://pallain9.github.io/maresmarket-site/terms)**
+
+---
+
+## 📬 Contact
+
+**Mare’s Market**  
 Email: MaresMarketCo@gmail.com  
-Country: United States
-
-### Purpose
-This site provides basic information about the Mare’s Market application as required for Amazon’s SP-API developer registration.
-
-No third-party access, distribution, or external developer services are provided.
+United States
